@@ -501,3 +501,4 @@
 | [2025-05-31](https://github.com/fuyijia-yi/Hugging-Face-Spaces-Keeper/commits/abe9dedd617914336831af17ff0e2a680f68cffc/docs/index.html) |  |
 | [2025-05-31](https://github.com/fuyijia-yi/Hugging-Face-Spaces-Keeper/commits/8fd08ffabf0543d8aff6fd76c6d80c28e3b0c47d/docs/index.html) |  |
 | [2025-05-31](https://github.com/fuyijia-yi/Hugging-Face-Spaces-Keeper/commits/025221aac780d49ff54b58004f434b8689d0188b/docs/index.html) |  |
+| [2025-06-01](https://github.com/fuyijia-yi/Hugging-Face-Spaces-Keeper/commits/07672c563c76bba60581bfc75652cbc8f7895866/docs/index.html) |  |
